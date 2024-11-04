@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iSQ+kxlBocnZcjtQ61A50Jy8PmtXOw4Ulu4XYK4niuw=",
+  "Source": "SB.Gateway",
+  "BasePath": "_content/SB.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

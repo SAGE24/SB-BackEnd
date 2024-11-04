@@ -1,0 +1,6 @@
+@SB.GATEWAY_HostAddress = http://localhost:5168
+
+GET {{SB.GATEWAY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

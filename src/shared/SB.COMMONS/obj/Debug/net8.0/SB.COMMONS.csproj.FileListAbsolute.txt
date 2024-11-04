@@ -1,0 +1,11 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\bin\Debug\net8.0\SB.Commons.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\bin\Debug\net8.0\SB.Commons.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\bin\Debug\net8.0\SB.Commons.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\refint\SB.Commons.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\SB.Commons.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\shared\SB.COMMONS\obj\Debug\net8.0\ref\SB.Commons.dll

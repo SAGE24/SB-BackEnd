@@ -1,0 +1,11 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\bin\Debug\net8.0\SB.Entity.Domain.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\bin\Debug\net8.0\SB.Entity.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\bin\Debug\net8.0\SB.Entity.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\refint\SB.Entity.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\SB.Entity.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.DOMAIN\obj\Debug\net8.0\ref\SB.Entity.Domain.dll

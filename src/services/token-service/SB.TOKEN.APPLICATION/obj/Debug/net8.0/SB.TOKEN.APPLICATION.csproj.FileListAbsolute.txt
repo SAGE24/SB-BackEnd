@@ -1,0 +1,17 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Application.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Application.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Application.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Infrastructure.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\bin\Debug\net8.0\SB.Token.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.908F4F1D.Up2Date
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\refint\SB.Token.Application.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\SB.Token.Application.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.APPLICATION\obj\Debug\net8.0\ref\SB.Token.Application.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Cursos\\08 React\\Proyectos\\SB-BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{937AF7AF-8CEA-41D0-8F86-204994A5DE7C}|src\\services\\Entity-service\\SB.ENTITY.SERVICE\\SB.Entity.Service.csproj|c:\\users\\sage1\\onedrive\\sage-pc\\cursos\\08 react\\proyectos\\sb-backend\\src\\services\\entity-service\\sb.entity.service\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937AF7AF-8CEA-41D0-8F86-204994A5DE7C}|src\\services\\Entity-service\\SB.ENTITY.SERVICE\\SB.Entity.Service.csproj|solutionrelative:src\\services\\entity-service\\sb.entity.service\\controllers\\entitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937AF7AF-8CEA-41D0-8F86-204994A5DE7C}|src\\services\\Entity-service\\SB.ENTITY.SERVICE\\SB.Entity.Service.csproj|c:\\users\\sage1\\onedrive\\sage-pc\\cursos\\08 react\\proyectos\\sb-backend\\src\\services\\entity-service\\sb.entity.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937AF7AF-8CEA-41D0-8F86-204994A5DE7C}|src\\services\\Entity-service\\SB.ENTITY.SERVICE\\SB.Entity.Service.csproj|solutionrelative:src\\services\\entity-service\\sb.entity.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Cursos\\08 React\\Proyectos\\SB-BACKEND\\src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Program.cs",
+              "RelativeDocumentMoniker": "src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Program.cs",
+              "ToolTip": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Cursos\\08 React\\Proyectos\\SB-BACKEND\\src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Program.cs",
+              "RelativeToolTip": "src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:57:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityController.cs",
+              "DocumentMoniker": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Cursos\\08 React\\Proyectos\\SB-BACKEND\\src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Controllers\\EntityController.cs",
+              "RelativeDocumentMoniker": "src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Controllers\\EntityController.cs",
+              "ToolTip": "C:\\Users\\sage1\\OneDrive\\Sage-PC\\Cursos\\08 React\\Proyectos\\SB-BACKEND\\src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Controllers\\EntityController.cs",
+              "RelativeToolTip": "src\\services\\Entity-service\\SB.ENTITY.SERVICE\\Controllers\\EntityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:54:21.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

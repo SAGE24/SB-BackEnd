@@ -1,0 +1,15 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\bin\Debug\net8.0\SB.Entity.Infrastructure.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\bin\Debug\net8.0\SB.Entity.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\bin\Debug\net8.0\SB.Entity.Infrastructure.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\bin\Debug\net8.0\SB.Entity.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\bin\Debug\net8.0\SB.Entity.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entit.74C6A55C.Up2Date
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\refint\SB.Entity.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\SB.Entity.Infrastructure.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\Entity-service\SB.ENTITY.INFRASTRUCTURE\obj\Debug\net8.0\ref\SB.Entity.Infrastructure.dll

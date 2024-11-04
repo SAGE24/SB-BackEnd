@@ -1,0 +1,15 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\bin\Debug\net8.0\SB.Token.Infrastructure.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\bin\Debug\net8.0\SB.Token.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\bin\Debug\net8.0\SB.Token.Infrastructure.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\bin\Debug\net8.0\SB.Token.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\bin\Debug\net8.0\SB.Token.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.5B41A35C.Up2Date
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\refint\SB.Token.Infrastructure.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\SB.Token.Infrastructure.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.INFRASTRUCTURE\obj\Debug\net8.0\ref\SB.Token.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\bin\Debug\net8.0\SB.Token.Domain.deps.json
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\bin\Debug\net8.0\SB.Token.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\bin\Debug\net8.0\SB.Token.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.AssemblyInfoInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.AssemblyInfo.cs
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\refint\SB.Token.Domain.dll
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\SB.Token.Domain.pdb
+C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.DOMAIN\obj\Debug\net8.0\ref\SB.Token.Domain.dll

@@ -1,0 +1,29 @@
+2024-11-03 13:35:46.018 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-03 13:35:46.075 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44362/swagger/index.html - null null
+2024-11-03 13:35:46.085 -05:00 [INF] Hosting environment: Development
+2024-11-03 13:35:46.085 -05:00 [INF] Content root path: C:\Users\sage1\OneDrive\Sage-PC\Cursos\08 React\Proyectos\SB-BACKEND\src\services\token-service\SB.TOKEN.SERVICE
+2024-11-03 13:35:46.343 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44362/swagger/index.html - 200 null text/html;charset=utf-8 275.758ms
+2024-11-03 13:35:46.366 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44362/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-03 13:35:46.366 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44362/swagger/index.js - null null
+2024-11-03 13:35:46.385 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44362/_vs/browserLink - null null
+2024-11-03 13:35:46.386 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44362/swagger/index.js - 200 null application/javascript;charset=utf-8 20.2158ms
+2024-11-03 13:35:46.386 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44362/_framework/aspnetcore-browser-refresh.js - 200 13768 application/javascript; charset=utf-8 19.7922ms
+2024-11-03 13:35:46.438 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44362/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.0794ms
+2024-11-03 13:35:46.490 -05:00 [INF] Request starting HTTP/2 GET https://localhost:44362/swagger/v1/swagger.json - null null
+2024-11-03 13:35:46.574 -05:00 [INF] Request finished HTTP/2 GET https://localhost:44362/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 83.2536ms
+2024-11-03 13:35:56.074 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44362/api/Token - null 0
+2024-11-03 13:35:56.101 -05:00 [INF] Executing endpoint 'SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE)'
+2024-11-03 13:35:56.127 -05:00 [INF] Route matched with {action = "GenerateToken", controller = "Token"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateToken() on controller SB.TOKEN.SERVICE.Controllers.TokenController (SB.TOKEN.SERVICE).
+2024-11-03 13:35:56.277 -05:00 [INF] se genero token
+2024-11-03 13:35:56.280 -05:00 [INF] Executing JsonResult, writing value of type 'SB.COMMONS.ResponseDTO'.
+2024-11-03 13:35:56.303 -05:00 [INF] Executed action SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE) in 172.9331ms
+2024-11-03 13:35:56.304 -05:00 [INF] Executed endpoint 'SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE)'
+2024-11-03 13:35:56.304 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44362/api/Token - 200 null application/json; charset=utf-8 230.5169ms
+2024-11-03 13:36:40.525 -05:00 [INF] Request starting HTTP/2 POST https://localhost:44362/api/Token - null 0
+2024-11-03 13:36:40.526 -05:00 [INF] Executing endpoint 'SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE)'
+2024-11-03 13:36:40.530 -05:00 [INF] Route matched with {action = "GenerateToken", controller = "Token"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GenerateToken() on controller SB.TOKEN.SERVICE.Controllers.TokenController (SB.TOKEN.SERVICE).
+2024-11-03 13:36:40.533 -05:00 [INF] se genero token
+2024-11-03 13:36:40.535 -05:00 [INF] Executing JsonResult, writing value of type 'SB.COMMONS.ResponseDTO'.
+2024-11-03 13:36:40.535 -05:00 [INF] Executed action SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE) in 3.8736ms
+2024-11-03 13:36:40.536 -05:00 [INF] Executed endpoint 'SB.TOKEN.SERVICE.Controllers.TokenController.GenerateToken (SB.TOKEN.SERVICE)'
+2024-11-03 13:36:40.536 -05:00 [INF] Request finished HTTP/2 POST https://localhost:44362/api/Token - 200 null application/json; charset=utf-8 11.0249ms
