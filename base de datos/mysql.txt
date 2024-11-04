@@ -1,0 +1,13 @@
+create database database_sb;
+use database_sb;
+
+drop table if exists SB_ENTITIES;
+create table SB_ENTITIES(
+	Entity_Code int auto_increment primary key,
+    Entity_Name varchar(100) not null,
+    Creation_Date datetime not null,
+    Modification_Date datetime null
+);
+
+select * from SB_ENTITIES
+;
